@@ -1,6 +1,6 @@
 {
-    "root": "file:///C:/Users/samha/Documents/GitHub/pokemon-showdown-client",
-    "client": "file:///C:/Users/samha/Documents/GitHub/pokemon-showdown-client",
+    "root": "https://github.com/potatmasta1/e",
+    "client": "https://github.com/potatmasta1/e",
     "dex": "dex.pokemonshowdown.com",
     "replays": "replay.pokemonshowdown.com",
     "users": "pokemonshowdown.com/users"
