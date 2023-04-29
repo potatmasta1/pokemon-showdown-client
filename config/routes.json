@@ -1,6 +1,6 @@
 {
     "root": "pokemonshowdown.com",
-    "client": "github.com/potatmasta1/pokemon-showdown-client",
+    "client": "pokemonshowdown.com",
     "dex": "dex.pokemonshowdown.com",
     "replays": "replay.pokemonshowdown.com",
     "users": "pokemonshowdown.com/users"
